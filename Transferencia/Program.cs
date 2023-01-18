@@ -11,6 +11,7 @@ namespace Transferencia
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Johnny ");
+            console.writeline("que loq ue sos vos ?");
         }
     }
 }
